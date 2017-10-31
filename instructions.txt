@@ -1,14 +1,4 @@
-The package includes:
 
-- source code 
-- windows wallet 
-- linux wallet
-- linux daemon 
-- premine wallet (wallet.dat)
-
-Block Explorer: http://185.207.206.243:3001/
-
-Please notice that you might receive an error while opening the wallet for the first time: EXCEPTION: "stxxruntime_error", this happens because the wallet is compiled on a different computer. It's very common for wallet executables. In case it happens, just close the wallet and open it again to solve the problem.
 
 Specs
 
@@ -23,9 +13,3 @@ P2P Port: 34800
 RPC Port: 34802
 
 
-PREMINE INSTRUCTIONS
-Open your wallet, wait a few seconds and close it. Open your coin appdata folder (example: C:\Users\YOURNAME\AppData\Roaming\reizen), delete the wallet.dat file and copy the given wallet.dat. Open your wallet again. Premine will show as "unconfirmed" until mining starts.
-
-Thank you for ordering one of our services, if there's more that we can do for you please let us know.
-
-Kind regards - Sir Daniel
